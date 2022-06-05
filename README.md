@@ -1,4 +1,4 @@
-# README
+# Devcamp Ruby on Rails Portfolio Application
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
