@@ -5,6 +5,7 @@
 <div id="blogs">
   <% @blogs.each do |blog| %>
     <%= render blog %>
+    <%= blog.title.upcase %>
     <p>
       <%= link_to "Show this blog", blog %>
     </p>
